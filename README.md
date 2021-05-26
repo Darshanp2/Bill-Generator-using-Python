@@ -1,3 +1,3 @@
 # Python
-Install reportlab using pip command.
-Use pip install reportlab
+# Install reportlab for python.
+# Use pip install reportlab
